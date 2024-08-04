@@ -1,5 +1,5 @@
 # config.py
-GAODE_API_KEY = "35b23add63ce24bcca064d99d802ccad"
+GAODE_API_KEY = "你的高德api"
 SERIAL_PORT = 'COM34'
 BAUDRATE = 115200
 AUTO_LOCATION = True  # Set to False to use a predefined adcode
